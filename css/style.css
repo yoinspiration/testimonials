@@ -15,7 +15,7 @@ body {
 
 .testimonials {
   max-width: 1440px;
-  margin: 100px auto;
+  margin: 10px auto;
   padding: 20px;
   display: grid;
   grid-template-columns: repeat(4, 1fr);
@@ -100,7 +100,7 @@ body {
 
 footer {
   text-align: center;
-  padding: 10px;
+  padding: 20px;
 }
 
 @media (max-width: 768px) {
